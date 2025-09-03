@@ -14,4 +14,5 @@
 </div>
 
 ## Desenvolvedor  
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/227065051?v=4" width=115><br><sub>Giovane Marcílio</sub>](https://github.com/Giovane-M)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/227065051?v=4" width=115><br><sub>Giovane Marcílio</sub>](https://github.com/Giovane-M) |
+| :---: |
