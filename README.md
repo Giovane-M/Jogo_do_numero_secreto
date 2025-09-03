@@ -13,5 +13,5 @@
 <img src="https://img.shields.io/badge/JavaScript-pink?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-## By  
+## Desenvolvedor  
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/227065051?v=4" width=115><br><sub>Giovane Marcílio</sub>](https://github.com/Giovane-M)
